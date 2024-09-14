@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 module.exports = {
   SESSION_ID: 'QUEENELISA;;;==wb0gEa3tmdfRmZvxmT0QlRxVHVZ1EZwhTeCFkckp1ZZFEbwdFarh0TaR1YjImYKhEb5YkTpwd=55458028672',
-  ALIVE_REACT: '👋',
+  ALIVE_REACT: '🌋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
@@ -26,7 +26,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BOT_NAME: 'kamogelo Ivyson',
   OWNER_NAME: 'kamogelo',
   OWNER_NUMBER: '27783356828,27634624586',
-  SUDO: '27682085455',
+  SUDO: '27691613485',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Johannesburg',
@@ -35,7 +35,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
-  OWNER_R_EMOJI: '🥹',
+  OWNER_R_EMOJI: '🦠',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
